@@ -19,6 +19,5 @@ public class Bitwise {
         System.out.printf("0 XOR 1 %5d%n", 0 ^ 1); 
         System.out.printf("1 XOR 0 %5d%n", 1 ^ 0); 
         System.out.printf("1 XOR 1 %5d%n", 1 ^ 1); 
-		System.out.printf("old.over!!!")
     }
 }
